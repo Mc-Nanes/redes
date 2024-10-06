@@ -4,7 +4,7 @@ import folium
 import platform
 import requests
 import ipaddress
-
+#teste
 
 # Função para realizar o TraceRoute usando socket
 def traceroute(host, max_hops=30, timeout=2):
